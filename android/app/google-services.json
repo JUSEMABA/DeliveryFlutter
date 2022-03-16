@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "606460077837",
+    "project_id": "juanapp-98070",
+    "storage_bucket": "juanapp-98070.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:606460077837:android:7175a3dce5b0c601a5b244",
+        "android_client_info": {
+          "package_name": "com.example.juan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "606460077837-pmj9qfvea2g1q2nkogghii23ia57ltqq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdQBbgAhEWu7D5nZ-CuIBh_wxreoTLAew"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "606460077837-pmj9qfvea2g1q2nkogghii23ia57ltqq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
